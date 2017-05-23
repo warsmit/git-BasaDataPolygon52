@@ -63,16 +63,6 @@ namespace BasaDataForPolygon52.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap F1WNHBnsB5c {
-            get {
-                object obj = ResourceManager.GetObject("F1WNHBnsB5c", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap polygon52white {
             get {
                 object obj = ResourceManager.GetObject("polygon52white", resourceCulture);
