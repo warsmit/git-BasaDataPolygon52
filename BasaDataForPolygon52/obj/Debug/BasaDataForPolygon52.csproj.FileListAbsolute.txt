@@ -1,0 +1,73 @@
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe.config
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.pdb
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csprojResolveAssemblyReference.cache
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Form1.resources
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Properties.Resources.resources
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csproj.GenerateResource.Cache
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.exe
+E:\ProjectVisualStudio\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.pdb
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe.config
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.pdb
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.dll
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.xml
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Form1.resources
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Properties.Resources.resources
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csproj.GenerateResource.Cache
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.exe
+D:\programist\project\2017 new project\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.pdb
+E:\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe.config
+E:\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.exe
+E:\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.pdb
+E:\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe
+E:\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.pdb
+E:\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.dll
+E:\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.xml
+E:\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csprojResolveAssemblyReference.cache
+E:\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Form1.resources
+E:\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Properties.Resources.resources
+E:\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csproj.GenerateResource.Cache
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe.config
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.pdb
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.dll
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.xml
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Form1.resources
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Properties.Resources.resources
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csproj.GenerateResource.Cache
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.exe
+D:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.pdb
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe.config
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.pdb
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.dll
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.xml
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csprojResolveAssemblyReference.cache
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Form1.resources
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Properties.Resources.resources
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csproj.GenerateResource.Cache
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.exe
+C:\Users\СажинМ\Downloads\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.pdb
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe.config
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.exe
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.pdb
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.pdb
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.dll
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.xml
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csprojResolveAssemblyReference.cache
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Form1.resources
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Properties.Resources.resources
+E:\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csproj.GenerateResource.Cache
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe.config
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.exe
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\BasaDataForPolygon52.pdb
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.dll
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\bin\Debug\EPPlus.xml
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Form1.resources
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.Properties.Resources.resources
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csproj.GenerateResource.Cache
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.exe
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.pdb
+D:\DISTRIBUTIV\programs\Новая папка\BasaDataForPolygon52\BasaDataForPolygon52\BasaDataForPolygon52\obj\Debug\BasaDataForPolygon52.csprojResolveAssemblyReference.cache
